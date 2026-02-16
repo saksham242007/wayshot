@@ -22,6 +22,7 @@
 - (libwayshot): make tidy up of the api
 - (libwayshot): Fix the problem that libwayshot panic when there is no support for ext-foreign-toplevel-list
 - (waymirror-egl): tidy up the project, and add it to the workspace. Now it is usable, though still has bugs about keyboard
+- (libwayshot): reusable region, size, and position data structures (PR #78)
 
 [1.4.3]: https://github.com/waycrate/wayshot/compare/1.4.2...v1.4.3
 
